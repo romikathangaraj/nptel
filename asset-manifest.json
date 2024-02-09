@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nptel/static/css/main.5b76804e.css",
+    "main.js": "/nptel/static/js/main.337097a4.js",
+    "index.html": "/nptel/index.html",
+    "main.5b76804e.css.map": "/nptel/static/css/main.5b76804e.css.map",
+    "main.337097a4.js.map": "/nptel/static/js/main.337097a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b76804e.css",
+    "static/js/main.337097a4.js"
+  ]
+}
